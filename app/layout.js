@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Nomes",
+  title: "TabNews - Em Construção",
 };
 
 export default function RootLayout({ children }) {
