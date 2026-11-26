@@ -10,6 +10,9 @@ Implementação do [TabNews](https://www.tabnews.com.br) para o [curso.dev](http
 - `npm run dev`: servidor de desenvolvimento (http://localhost:3000)
 - `npm run build`: build de produção
 - `npm start`: serve o build de produção
+- `npm run lint`: verifica o código com ESLint
+- `npm run format`: formata o código com Prettier
+- `npm run format:check`: verifica a formatação sem alterar arquivos
 
 ## Convenções
 
